@@ -11,5 +11,5 @@ and price will update accordingly. If the page refreshes localstorage stores the
 ## Acknowledgments
 Original Project by:
 Brad Traversy
-- [Link to project repo](https://github.com/bradtraversy/vanillawebprojects/tree/master/form-validator)https://github.com/bradtraversy/vanillawebprojects/tree/master/form-validator)
+- [Link to project repo](https://github.com/bradtraversy/vanillawebprojects/tree/master/form-validator)
 - [Link to Github](https://github.com/bradtraversy)
